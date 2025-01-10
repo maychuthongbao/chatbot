@@ -1,0 +1,6 @@
+pyTelegramBotAPI
+aiohttp
+qrcode
+Pillow
+urllib3
+telebot
